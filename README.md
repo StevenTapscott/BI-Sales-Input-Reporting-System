@@ -5,6 +5,22 @@ This project demonstrates the development of an end-to-end business intelligence
 
 ---
 
+## Dashboard Preview
+
+### Star Schema
+
+Star schema designed to support structured sales reporting by integrating sales transactions with customer, product, date, and regional dimensions to enable efficient KPI reporting and business analysis.
+
+![Star Schema](screenshots/BI-starschema.png)
+
+### Sales Input & Reporting Dashboard
+
+Interactive Power BI dashboard providing structured sales reporting, KPI monitoring, sales performance analysis, and dynamic filtering to support operational reporting and business decision-making.
+
+![Sales Input & Reporting Dashboard](screenshots/BI-dashboard.png)
+
+---
+
 ##  Objectives  
 - Develop a structured dataset for sales analysis  
 - Connect and transform data within Power BI
